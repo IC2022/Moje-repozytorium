@@ -1,0 +1,6 @@
+﻿  Wyszukiwanie binarne.cpp
+C:\Users\megan\source\repos\Wyszukiwanie binarne\Wyszukiwanie binarne.cpp(21,5): warning C4552: „<=”: Wynik wyrażenia nie jest używany
+C:\Users\megan\source\repos\Wyszukiwanie binarne\Wyszukiwanie binarne.cpp(22,5): warning C4552: „<=”: Wynik wyrażenia nie jest używany
+C:\Users\megan\source\repos\Wyszukiwanie binarne\Wyszukiwanie binarne.cpp(23,6): warning C4552: „<=”: Wynik wyrażenia nie jest używany
+C:\Users\megan\source\repos\Wyszukiwanie binarne\Wyszukiwanie binarne.cpp(31,7): warning C4552: „<=”: Wynik wyrażenia nie jest używany
+  Wyszukiwanie binarne.vcxproj -> C:\Users\megan\source\repos\Wyszukiwanie binarne\Debug\Wyszukiwanie binarne.exe
